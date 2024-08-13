@@ -1,0 +1,24 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A brief description of my project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Build step placeholder\"",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "my-project"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
